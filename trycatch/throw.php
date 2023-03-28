@@ -1,4 +1,5 @@
 <?php
+// Este ejercicio se corre em consola
 try{
     $comprar = readline("Que quieres comprar?");
 
